@@ -27,6 +27,7 @@
 # python cache
 *.pyc
 *.npz
+tf_logs/
 
 *.swp
 dump.rdb
