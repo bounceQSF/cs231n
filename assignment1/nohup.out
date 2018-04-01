@@ -1,0 +1,151 @@
+[I 23:00:39.955 NotebookApp] Serving notebooks from local directory: /Users/spike/Downloads/ml/assignment1
+[I 23:00:39.956 NotebookApp] 0 active kernels 
+[I 23:00:39.956 NotebookApp] The IPython Notebook is running at: http://localhost:8888/
+[I 23:00:39.956 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 23:00:42.851 NotebookApp] 404 GET /api/kernels/4772d194-2a02-420c-ba40-2e7fcc585775/channels?session_id=D2BA6B3F44004F69B1049D72BA61C9AE (127.0.0.1): Kernel does not exist: 4772d194-2a02-420c-ba40-2e7fcc585775
+[W 23:00:42.857 NotebookApp] 404 GET /api/kernels/4772d194-2a02-420c-ba40-2e7fcc585775/channels?session_id=D2BA6B3F44004F69B1049D72BA61C9AE (127.0.0.1) 18.21ms referer=None
+[W 23:00:59.836 NotebookApp] 404 GET /api/kernels/4772d194-2a02-420c-ba40-2e7fcc585775/channels?session_id=D2BA6B3F44004F69B1049D72BA61C9AE (127.0.0.1): Kernel does not exist: 4772d194-2a02-420c-ba40-2e7fcc585775
+[W 23:00:59.837 NotebookApp] 404 GET /api/kernels/4772d194-2a02-420c-ba40-2e7fcc585775/channels?session_id=D2BA6B3F44004F69B1049D72BA61C9AE (127.0.0.1) 2.98ms referer=None
+[W 23:01:13.880 NotebookApp] Notebook svm.ipynb is not trusted
+[I 23:01:14.459 NotebookApp] Kernel started: 83c8d0bd-37e4-400c-85c3-ae54a10badac
+[I 23:01:15.348 NotebookApp] Adapting to protocol v5.1 for kernel 83c8d0bd-37e4-400c-85c3-ae54a10badac
+[W 23:01:25.678 NotebookApp] Notebook knn.ipynb is not trusted
+[I 23:01:26.134 NotebookApp] Kernel started: d269a7d2-4033-41a1-a11a-d35df7bd18a5
+[I 23:01:27.088 NotebookApp] Adapting to protocol v5.1 for kernel d269a7d2-4033-41a1-a11a-d35df7bd18a5
+[W 23:01:32.840 NotebookApp] 404 GET /api/kernels/4772d194-2a02-420c-ba40-2e7fcc585775/channels?session_id=D2BA6B3F44004F69B1049D72BA61C9AE (127.0.0.1): Kernel does not exist: 4772d194-2a02-420c-ba40-2e7fcc585775
+[W 23:01:32.843 NotebookApp] 404 GET /api/kernels/4772d194-2a02-420c-ba40-2e7fcc585775/channels?session_id=D2BA6B3F44004F69B1049D72BA61C9AE (127.0.0.1) 4.53ms referer=None
+[W 23:02:37.840 NotebookApp] 404 GET /api/kernels/4772d194-2a02-420c-ba40-2e7fcc585775/channels?session_id=D2BA6B3F44004F69B1049D72BA61C9AE (127.0.0.1): Kernel does not exist: 4772d194-2a02-420c-ba40-2e7fcc585775
+[W 23:02:37.842 NotebookApp] 404 GET /api/kernels/4772d194-2a02-420c-ba40-2e7fcc585775/channels?session_id=D2BA6B3F44004F69B1049D72BA61C9AE (127.0.0.1) 4.05ms referer=None
+[I 23:03:26.140 NotebookApp] Saving file at /knn.ipynb
+[W 23:09:36.601 NotebookApp] Notebook knn.ipynb is not trusted
+[I 23:09:37.078 NotebookApp] Adapting to protocol v5.1 for kernel d269a7d2-4033-41a1-a11a-d35df7bd18a5
+[I 23:11:57.482 NotebookApp] Saving file at /knn.ipynb
+[W 23:12:05.116 NotebookApp] No such file or directory: assignment1
+[W 23:12:05.116 NotebookApp] 404 GET /api/contents/assignment1?type=directory&_=1521384506347 (127.0.0.1) 1.49ms referer=http://localhost:8888/tree/assignment1
+[I 23:15:17.548 NotebookApp] Saving file at /knn.ipynb
+[I 23:18:37.537 NotebookApp] Saving file at /knn.ipynb
+[I 23:28:37.501 NotebookApp] Saving file at /knn.ipynb
+[I 23:31:57.495 NotebookApp] Saving file at /knn.ipynb
+[I 23:45:17.741 NotebookApp] Saving file at /knn.ipynb
+[I 23:48:37.765 NotebookApp] Saving file at /knn.ipynb
+[I 23:49:01.054 NotebookApp] Kernel interrupted: d269a7d2-4033-41a1-a11a-d35df7bd18a5
+[I 23:51:57.438 NotebookApp] Saving file at /knn.ipynb
+[I 23:55:17.432 NotebookApp] Saving file at /knn.ipynb
+[I 00:01:57.414 NotebookApp] Saving file at /knn.ipynb
+[I 00:18:37.363 NotebookApp] Saving file at /knn.ipynb
+[I 00:21:57.353 NotebookApp] Saving file at /knn.ipynb
+[I 00:25:17.342 NotebookApp] Saving file at /knn.ipynb
+[I 00:28:37.338 NotebookApp] Saving file at /knn.ipynb
+[I 00:31:57.335 NotebookApp] Saving file at /knn.ipynb
+[I 00:35:17.671 NotebookApp] Saving file at /knn.ipynb
+[W 00:35:22.399 NotebookApp] Notebook svm.ipynb is not trusted
+[I 00:35:23.010 NotebookApp] Adapting to protocol v5.1 for kernel 83c8d0bd-37e4-400c-85c3-ae54a10badac
+[I 00:37:23.586 NotebookApp] Saving file at /svm.ipynb
+[I 00:38:37.593 NotebookApp] Saving file at /knn.ipynb
+[W 21:30:45.760 NotebookApp] Notebook two_layer_net.ipynb is not trusted
+[I 21:30:46.371 NotebookApp] Kernel started: 21bf0f47-88d6-4157-8c12-9f90cc9b3a65
+[I 21:30:47.395 NotebookApp] Adapting to protocol v5.1 for kernel 21bf0f47-88d6-4157-8c12-9f90cc9b3a65
+[I 00:12:45.948 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 00:14:45.935 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 00:16:46.221 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 00:18:45.923 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 00:20:45.920 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 00:22:46.212 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 00:24:45.911 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 00:26:45.901 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 00:28:45.894 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 00:30:45.893 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 00:32:45.904 NotebookApp] Saving file at /two_layer_net.ipynb
+[W 00:35:18.745 NotebookApp] Notebook features.ipynb is not trusted
+[I 00:35:19.181 NotebookApp] Kernel started: 6bd9a499-d974-46f7-a7db-c2cd419459cf
+[I 00:35:20.182 NotebookApp] Adapting to protocol v5.1 for kernel 6bd9a499-d974-46f7-a7db-c2cd419459cf
+[I 00:37:20.171 NotebookApp] Saving file at /features.ipynb
+[I 00:38:45.880 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 00:40:45.873 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 00:42:45.871 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 00:44:45.864 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 00:48:45.852 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 00:50:45.852 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 00:51:38.508 NotebookApp] Kernel interrupted: 21bf0f47-88d6-4157-8c12-9f90cc9b3a65
+[I 00:52:45.853 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 01:14:45.803 NotebookApp] Saving file at /two_layer_net.ipynb
+[I 01:16:12.443 NotebookApp] Adapting to protocol v5.1 for kernel 83c8d0bd-37e4-400c-85c3-ae54a10badac
+[I 21:02:21.328 NotebookApp] Adapting to protocol v5.1 for kernel 83c8d0bd-37e4-400c-85c3-ae54a10badac
+[I 21:02:22.090 NotebookApp] Adapting to protocol v5.1 for kernel 6bd9a499-d974-46f7-a7db-c2cd419459cf
+[I 21:38:21.110 NotebookApp] Saving file at /svm.ipynb
+[I 21:40:21.073 NotebookApp] Saving file at /svm.ipynb
+[I 21:56:21.046 NotebookApp] Saving file at /svm.ipynb
+[I 21:58:21.023 NotebookApp] Saving file at /svm.ipynb
+[I 22:00:21.020 NotebookApp] Saving file at /svm.ipynb
+[I 22:34:20.923 NotebookApp] Saving file at /svm.ipynb
+[I 22:36:20.914 NotebookApp] Saving file at /svm.ipynb
+[I 22:38:21.513 NotebookApp] Saving file at /svm.ipynb
+[I 22:48:20.886 NotebookApp] Saving file at /svm.ipynb
+[I 22:50:20.880 NotebookApp] Saving file at /svm.ipynb
+[I 22:52:21.487 NotebookApp] Saving file at /svm.ipynb
+[I 22:54:20.876 NotebookApp] Saving file at /svm.ipynb
+[I 22:56:20.873 NotebookApp] Saving file at /svm.ipynb
+[I 22:58:20.862 NotebookApp] Saving file at /svm.ipynb
+[W 22:59:43.596 NotebookApp] Notebook softmax.ipynb is not trusted
+[I 22:59:44.026 NotebookApp] Kernel started: e781208b-d1d8-4764-a6cd-18bb6c33e2c9
+[I 22:59:45.276 NotebookApp] Adapting to protocol v5.1 for kernel e781208b-d1d8-4764-a6cd-18bb6c33e2c9
+[I 23:00:21.422 NotebookApp] Saving file at /svm.ipynb
+[I 23:40:20.759 NotebookApp] Saving file at /svm.ipynb
+[I 23:42:20.754 NotebookApp] Saving file at /svm.ipynb
+[I 23:44:21.329 NotebookApp] Saving file at /svm.ipynb
+[I 23:46:21.325 NotebookApp] Saving file at /svm.ipynb
+[I 00:02:21.306 NotebookApp] Saving file at /svm.ipynb
+[I 00:13:43.824 NotebookApp] Saving file at /softmax.ipynb
+[I 00:25:43.790 NotebookApp] Saving file at /softmax.ipynb
+[I 00:27:43.790 NotebookApp] Saving file at /softmax.ipynb
+[I 00:31:43.777 NotebookApp] Saving file at /softmax.ipynb
+[I 00:35:43.769 NotebookApp] Saving file at /softmax.ipynb
+[I 00:39:43.752 NotebookApp] Saving file at /softmax.ipynb
+[I 00:43:43.740 NotebookApp] Saving file at /softmax.ipynb
+[I 00:49:43.729 NotebookApp] Saving file at /softmax.ipynb
+[I 00:51:43.721 NotebookApp] Saving file at /softmax.ipynb
+[I 00:53:43.718 NotebookApp] Saving file at /softmax.ipynb
+[I 00:55:43.707 NotebookApp] Saving file at /softmax.ipynb
+[I 00:57:43.703 NotebookApp] Saving file at /softmax.ipynb
+[I 00:59:43.703 NotebookApp] Saving file at /softmax.ipynb
+[I 01:03:43.691 NotebookApp] Saving file at /softmax.ipynb
+[I 01:05:43.681 NotebookApp] Saving file at /softmax.ipynb
+[I 01:07:44.117 NotebookApp] Saving file at /softmax.ipynb
+[I 01:08:21.099 NotebookApp] Saving file at /svm.ipynb
+[I 01:08:50.716 NotebookApp] Adapting to protocol v5.1 for kernel e781208b-d1d8-4764-a6cd-18bb6c33e2c9
+[I 01:08:59.657 NotebookApp] Adapting to protocol v5.1 for kernel 6bd9a499-d974-46f7-a7db-c2cd419459cf
+[I 01:10:21.127 NotebookApp] Saving file at /svm.ipynb
+[I 01:11:00.071 NotebookApp] Saving file at /features.ipynb
+[I 01:11:44.067 NotebookApp] Saving file at /softmax.ipynb
+[I 01:12:21.117 NotebookApp] Saving file at /svm.ipynb
+[I 01:13:00.067 NotebookApp] Saving file at /features.ipynb
+[I 01:13:44.072 NotebookApp] Saving file at /softmax.ipynb
+[I 01:14:59.543 NotebookApp] Saving file at /features.ipynb
+[I 01:16:59.562 NotebookApp] Saving file at /features.ipynb
+[I 01:18:59.535 NotebookApp] Saving file at /features.ipynb
+[I 01:20:59.527 NotebookApp] Saving file at /features.ipynb
+[I 01:22:59.526 NotebookApp] Saving file at /features.ipynb
+[I 01:24:59.519 NotebookApp] Saving file at /features.ipynb
+[I 01:26:59.528 NotebookApp] Saving file at /features.ipynb
+[I 01:27:37.920 NotebookApp] Adapting to protocol v5.1 for kernel 21bf0f47-88d6-4157-8c12-9f90cc9b3a65
+[I 01:28:59.518 NotebookApp] Saving file at /features.ipynb
+[I 01:29:47.087 NotebookApp] Kernel interrupted: 6bd9a499-d974-46f7-a7db-c2cd419459cf
+[I 01:30:59.514 NotebookApp] Saving file at /features.ipynb
+[I 01:32:46.683 NotebookApp] Kernel interrupted: 6bd9a499-d974-46f7-a7db-c2cd419459cf
+[I 01:32:51.542 NotebookApp] Kernel interrupted: 6bd9a499-d974-46f7-a7db-c2cd419459cf
+[I 01:32:59.512 NotebookApp] Saving file at /features.ipynb
+[I 01:34:59.917 NotebookApp] Saving file at /features.ipynb
+[I 01:37:00.017 NotebookApp] Saving file at /features.ipynb
+[I 01:38:59.495 NotebookApp] Saving file at /features.ipynb
+[I 01:41:00.006 NotebookApp] Saving file at /features.ipynb
+[I 01:42:59.996 NotebookApp] Saving file at /features.ipynb
+[I 01:43:26.574 NotebookApp] Kernel interrupted: 6bd9a499-d974-46f7-a7db-c2cd419459cf
+[I 01:44:59.480 NotebookApp] Saving file at /features.ipynb
+[I 01:45:27.259 NotebookApp] Kernel interrupted: 6bd9a499-d974-46f7-a7db-c2cd419459cf
+[I 01:46:59.470 NotebookApp] Saving file at /features.ipynb
+[I 01:48:59.470 NotebookApp] Saving file at /features.ipynb
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
