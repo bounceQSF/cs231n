@@ -36,3 +36,5 @@ build/
 coco_captioning/
 MNIST_data/
 *.ckpt.*
+
+.idea/
